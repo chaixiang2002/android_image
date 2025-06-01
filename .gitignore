@@ -1,0 +1,7 @@
+*.tgz
+*.img
+
+android_1*
+
+tmp
+logs
